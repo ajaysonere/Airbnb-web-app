@@ -20,7 +20,7 @@ const Search = ()=>{
            className=" flex flex-row items-center justify-between "
         >
           <div className="text-sm font-semibold px-6">
-          anywhere
+          anywhere 
           </div>
           <div className="hidden sm:block test-sm font-semibold px-3 border-x-[1px] flex-1 text-center">
             anyweek
